@@ -1,3 +1,3 @@
 # weatherApp
 
-https://weather214.herokuapp.com/
+https://lucas-4.github.io/weatherApp/
